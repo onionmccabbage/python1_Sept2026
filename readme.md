@@ -9,7 +9,7 @@ September 2026 - Toby Dussek
 * 5:00 done
 
 ### What we will do today
-* Welcome and tech check
+* Welcome, tech check and where to get help
 * Comparing Excel and Python
 * Overview: using Jupyter
 * Writing Python code
@@ -17,7 +17,11 @@ September 2026 - Toby Dussek
 * Data Collections
 * Exercises 1 & 2
 * Python 'dictionary' data type
-* Consitional Logic and Loops
+* Conditional Logic and Loops
 * Using range() and list comprehension
-* Exercises 3 & 4
-    - code snippet: `print(f'Market Cap: {mkCaps[0]:>9,}')`
+* Exercises 3, 4 & 5 (optionally 6)
+    - code snippet: `grades = {'Bob':71, 'Alice':65, 'Jim':70, 'Jen':90, 'Tim':86, 'Trish':85, 'Tony':75}`
+* Functions
+* Random number, Normal Distribution and standard Deviation
+* Using Numpy Arrays for statistical analysis
+* Exercises 7 & 8 
