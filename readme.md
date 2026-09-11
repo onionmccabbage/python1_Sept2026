@@ -25,3 +25,12 @@ September 2026 - Toby Dussek
 * Random number, Normal Distribution and standard Deviation
 * Using Numpy Arrays for statistical analysis
 * Exercises 7 & 8 
+
+### Things to watch for
+#### Assignment 2
+- Exercise 1: use `format='%m/%d/%y'` (instead of format=r'%Y-%m-%d')
+- Exercise 6: find `fundamentals.csv` in `ExData` folder
+- Exercise 6 step 6: nay be better off using `ba_fin['ROA'] = ba_fin['ROA'].ffill()`
+- Exercise 7: file `ff3.csv` is actually called `ff3_monthly.CSV` (in `ExData` folder)
+- General: You may get this problem/solution: `ValueError: Invalid frequency: M. Failed to parse with error message: ValueError("'M' is no longer supported for offsets. Please use 'ME' instead.")`
+
