@@ -27,6 +27,8 @@ September 2026 - Toby Dussek
 * Exercises 7 & 8 
 
 ### Things to watch for
+#### Assignment 1
+- When reading in the supplied .csv and .xlsx files you will often need to add `date_format='%m/%d/%y'` 
 #### Assignment 2
 - Exercise 1: use `format='%m/%d/%y'` (instead of format=r'%Y-%m-%d')
 - Exercise 6: find `fundamentals.csv` in `ExData` folder
