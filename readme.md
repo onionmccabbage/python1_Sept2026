@@ -3,9 +3,9 @@
 September 2026 - Toby Dussek
 
 * 9:00 start
-* 10:45 morning break
-* 12:30 lunch
-* 3:15 afternoon break
+* 10:45 morning break (20 mins)
+* 12:30 lunch (1 hr)
+* 3:15 afternoon break (20 mins)
 * 5:00 done
 
 ### What we will do today
@@ -23,8 +23,19 @@ September 2026 - Toby Dussek
     - code snippet: `grades = {'Bob':71, 'Alice':65, 'Jim':70, 'Jen':90, 'Tim':86, 'Trish':85, 'Tony':75}`
 * Functions
 * Random numbers, Normal Distribution and Standard Deviation
-* Using Numpy Arrays for statistical analysis
+* Using Numpy Arrays
 * Exercises 7 & 8 
+* Using Pandas
+* Importing and cleaning data
+* DataFrames for statistical analysis
+* Assignment 2 Exercises 1 & 2
+
+#### Optional Content
+* Merging and joining data sources
+* Assignment 2 Exercises 3 & 4
+* Moving Averages
+* Data sampling frequency
+* Assignment 2 Exercises 5, 6 & 7
 
 ### Things to watch for
 #### Assignment 1
