@@ -22,7 +22,7 @@ September 2026 - Toby Dussek
 * Exercises 3, 4 & 5 (optionally 6)
     - code snippet: `grades = {'Bob':71, 'Alice':65, 'Jim':70, 'Jen':90, 'Tim':86, 'Trish':85, 'Tony':75}`
 * Functions
-* Random number, Normal Distribution and standard Deviation
+* Random numbers, Normal Distribution and Standard Deviation
 * Using Numpy Arrays for statistical analysis
 * Exercises 7 & 8 
 
