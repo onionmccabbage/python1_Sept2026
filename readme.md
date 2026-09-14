@@ -2,10 +2,10 @@
 
 September 2026 - Toby Dussek
 
-* 9:00 start
-* 10:45 morning break (20 mins)
-* 12:30 lunch (1 hr)
-* 3:15 afternoon break (20 mins)
+* 10:00 start
+* 11:30 morning break (20 mins)
+* 1:00 lunch (1 hr)
+* 3:30 afternoon break (20 mins)
 * 5:00 done
 
 ### What we will do today
@@ -15,20 +15,23 @@ September 2026 - Toby Dussek
 * Writing Python code
 * Data Types
 * Data Collections
-* Exercises 1 & 2
+* Assignment 1 Exercises 1 & 2
 * Python 'dictionary' data type
 * Conditional Logic and Loops
 * Using range() and list comprehension
-* Exercises 3, 4 & 5 (optionally 6)
+* Assignment 1 Exercises 3, 4 & 5 (optionally 6)
     - code snippet: `grades = {'Bob':71, 'Alice':65, 'Jim':70, 'Jen':90, 'Tim':86, 'Trish':85, 'Tony':75}`
 * Functions
 * Random numbers, Normal Distribution and Standard Deviation
 * Using Numpy Arrays
-* Exercises 7 & 8 
+* Assignment 1 Exercises 7 & 8 
 * Using Pandas
 * Importing and cleaning data
 * DataFrames for statistical analysis
 * Assignment 2 Exercises 1 & 2
+
+
+
 
 #### Additional Content
 * Merging and joining data sources
@@ -36,6 +39,15 @@ September 2026 - Toby Dussek
 * Moving Averages
 * Data sampling frequency
 * Assignment 2 Exercises 5, 6 & 7
+
+
+
+
+
+
+
+
+
 
 ### Things to watch for
 #### Assignment 1
