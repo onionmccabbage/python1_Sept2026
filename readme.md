@@ -8,6 +8,9 @@ September 2026 - Toby Dussek
 * 3:15 afternoon break
 * 5:00 done
 
+### Please log in to the learning platform
+(You will have an email link to this)
+
 ### What we will do today
 * Welcome, tech check and where to get help
 * Comparing Excel and Python
@@ -25,6 +28,26 @@ September 2026 - Toby Dussek
 * Random number, Normal Distribution and standard Deviation
 * Using Numpy Arrays for statistical analysis
 * Exercises 7 & 8 
+
+* Using Pandas DataFrames
+* Working with .csv and .xlsx data
+* statistical financial data analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Things to watch for
 #### Assignment 2
