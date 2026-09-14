@@ -8,6 +8,9 @@ September 2026 - Toby Dussek
 * 3:30 afternoon break (20 mins)
 * 5:00 done
 
+### Please log in to the learning platform
+(You will have an email link to this)
+
 ### What we will do today
 * Welcome, tech check and where to get help & resources
 * Comparing Excel and Python
@@ -39,6 +42,26 @@ September 2026 - Toby Dussek
 * Moving Averages
 * Data sampling frequency
 * Assignment 2 Exercises 5, 6 & 7
+
+
+
+
+
+
+
+
+
+
+* Using Pandas DataFrames
+* Working with .csv and .xlsx data
+* statistical financial data analysis
+
+
+
+
+
+
+
 
 
 
